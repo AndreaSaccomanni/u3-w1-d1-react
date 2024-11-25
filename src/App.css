@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.newButton {
+  margin-top: 50px;
+  background-color: rgb(1, 99, 1);
+  padding: 0.5rem 1rem;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.newButton:hover {
+  background-color: rgb(36, 223, 36);
+}
+
+.unsplashImage {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.main {
+  padding: 20px;
+  background-color: rgb(106, 233, 233);
+}
